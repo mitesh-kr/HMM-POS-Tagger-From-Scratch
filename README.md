@@ -2,6 +2,8 @@
 
 A complete implementation of Hidden Markov Model (HMM) for Part-of-Speech (PoS) tagging built entirely from scratch, without using any existing HMM or NLP libraries.
 
+## [Google colan link](https://colab.research.google.com/drive/1yXKGDwuvvpuufw2CEXwvCvNkseEP4daj?usp=sharing)
+
 ## Overview
 
 Part-of-speech tagging assigns grammatical categories to every token in a sentence. This project implements a PoS tagger using three different HMM configurations - all coded from scratch:
