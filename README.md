@@ -62,20 +62,23 @@ This will train and evaluate all three HMM configurations with both the 36-tag a
 HMM-POS-Tagger-From-Scratch/
 │
 ├── hmm_tagger.py        # Core HMM implementation and Viterbi algorithm
-│
 ├── data_utils.py        # Data loading, preprocessing, and tag collapsing
-│
 ├── evaluation.py        # Functions for evaluating model performance
-│
 ├── main.py              # Main script to run experiments
-│
 ├── requirements.txt     # Project dependencies
-│
 ├── .gitignore           # Git ignore file
-│
-└── README.md            # This file
+├── README.md
+└── results/             # Results directory
+   ├── Unseen Words Accuracy.txt
+   ├── tag_wise_accuracy_36_tags.txt
+   ├── tag_wise_accuracy_4_tags.txt
+   ├── Confusion Matrix for Second Order HMM (36-Tag).png
+   ├── Confusion Matrix for First Order HMM (36-Tag).png
+   ├── Confusion Matrix for First Order HMM (4-Tag).png
+   ├── Confusion Matrix for First Order HMM (Word+Tag-based, 36-Tag).png
+   ├── Confusion Matrix for First Order HMM (Word+Tag-based, 4-Tag).png
+   └── Confusion Matrix for Second Order HMM (4-Tag).png
 ```
-
 ### File Descriptions
 
 - **hmm_tagger.py**: Contains the HMMTagger class with methods for:
