@@ -28,7 +28,7 @@ The code uses the English Penn Treebank (PTB) corpus which contains 36 distinct 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/HMM-POS-Tagger-From-Scratch.git
+git clone https://github.com/mitesh-kr/HMM-POS-Tagger-From-Scratch.git
 cd HMM-POS-Tagger-From-Scratch
 ```
 
