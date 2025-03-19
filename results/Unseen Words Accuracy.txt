@@ -1,0 +1,7 @@
+
+• First Order HMM (36-Tag): 19.67%
+• Second Order HMM (36-Tag): 19.67%
+• First Order HMM (Word+Tag-based, 36-Tag): 19.73%
+• First Order HMM (4-Tag): 12.81%
+• Second Order HMM (4-Tag): 12.81%
+• First Order HMM (Word+Tag-based, 4-Tag): 12.87%
