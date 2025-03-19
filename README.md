@@ -24,6 +24,9 @@ The implementation also includes a comparison between using the full 36-tag set 
 ## Dataset
 
 The code uses the English Penn Treebank (PTB) corpus which contains 36 distinct part-of-speech tags.
+[Number of PoS tags: 36] (https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html)
+[English Penn Treebank (PTB) corpus](https://drive.google.com/file/d/1R1BLcghCh4j9Kl8_CR7MxZ4Wj57RiTxn/view?usp=share_link)
+
 
 ## Getting Started
 
