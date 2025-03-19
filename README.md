@@ -132,6 +132,7 @@ The tagger is evaluated using:
 3. Special analysis for unknown words (words not seen during training)
 
 ## Performance Comparison of HMM Configurations
+The results include a comparison between the 36-tag and 4-tag models.
 
 | Model                                | 36-Tag Accuracy | 4-Tag Accuracy |
 |--------------------------------------|----------------|---------------|
@@ -142,4 +143,4 @@ The tagger is evaluated using:
 **Table 1: Performance Comparison of HMM Configurations**
 
 
-The results include a comparison between the 36-tag and 4-tag models.
+
